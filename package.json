@@ -1,0 +1,23 @@
+{
+  "name": "woocommerce-ai",
+  "version": "1.0.0",
+  "description": "Agente IA local para gestionar WooCommerce con Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "woocommerce",
+    "ai",
+    "node",
+    "express"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1"
+  },
+  "type": "commonjs"
+}
